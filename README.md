@@ -22,7 +22,7 @@ Switch to light mode for better visibility in bright environments.
 
 ## 🚀 Demo
 
-View the live demo: [Browser Extensions Manager UI](your-demo-link-here)
+View the live demo: [Browser Extensions Manager UI](https://reemabdelkader.github.io/Browser-Extensions-Manager-UI/)
 
 ## 🛠️ Technologies Used
 
