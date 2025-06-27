@@ -1,0 +1,22 @@
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red interlocking logo symbol - original design -->
+  <g transform="translate(10, 5)">
+    <!-- Top-left rounded square -->
+    <rect x="5" y="5" width="35" height="35" rx="15" ry="15" fill="none" stroke="#DC2626" stroke-width="8"/>
+    <!-- Top-right rounded square -->
+    <rect x="45" y="5" width="35" height="35" rx="15" ry="15" fill="none" stroke="#DC2626" stroke-width="8"/>
+    <!-- Bottom-left rounded square -->
+    <rect x="5" y="45" width="35" height="35" rx="15" ry="15" fill="none" stroke="#DC2626" stroke-width="8"/>
+    <!-- Bottom-right rounded square -->
+    <rect x="45" y="45" width="35" height="35" rx="15" ry="15" fill="none" stroke="#DC2626" stroke-width="8"/>
+    
+    <!-- Interlocking elements -->
+    <rect x="32" y="12" width="16" height="8" fill="#DC2626" rx="4"/>
+    <rect x="32" y="60" width="16" height="8" fill="#DC2626" rx="4"/>
+    <rect x="12" y="32" width="8" height="16" fill="#DC2626" rx="4"/>
+    <rect x="60" y="32" width="8" height="16" fill="#DC2626" rx="4"/>
+  </g>
+  
+  <!-- White Extensions text -->
+  <text x="140" y="70" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white">Extensions</text>
+</svg>
