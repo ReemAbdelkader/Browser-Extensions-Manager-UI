@@ -1,3 +1,4 @@
+// apply dark/light mood
 let darkmode = localStorage.getItem('darkmode');
 const themeSwitch = document.getElementById('theme-switch');
 
